@@ -1,0 +1,16 @@
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - pytorch
+  - torchvision
+  - optuna
+  - tensorly
+  - tensorboard
+  - opt_einsum
+  - gcc
+  - gxx
+  - ipykernel
