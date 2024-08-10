@@ -13,4 +13,20 @@ Run `main.py` to see how the model performs. The global variable `model_names` i
 
 
 ## Citation
-In coming...
+
+```
+@inproceedings{ijcai2024p418,
+  title     = {Learning Low-Rank Tensor Cores with Probabilistic ℓ0-Regularized Rank Selection for Model Compression},
+  author    = {Cao, Tianxiao and Sun, Lu and Nguyen, Canh Hao and Mamitsuka, Hiroshi},
+  booktitle = {Proceedings of the Thirty-Third International Joint Conference on
+               Artificial Intelligence, {IJCAI-24}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {Kate Larson},
+  pages     = {3780--3788},
+  year      = {2024},
+  month     = {8},
+  note      = {Main Track},
+  doi       = {10.24963/ijcai.2024/418},
+  url       = {https://doi.org/10.24963/ijcai.2024/418},
+}
+```
